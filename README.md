@@ -108,7 +108,7 @@ __Sample response__
 ```
 
 ### Locations Endpoint
-
+testeeeeeee
 Getting latest amount of confirmed cases, deaths, and recovered per location.
 
 #### The Location Object
